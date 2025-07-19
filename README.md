@@ -16,8 +16,8 @@ This is a console-based application developed in the C programming language that
 This project was developed as a collaborative effort by a team of students aiming to strengthen their understanding of system design and C programming fundamentals. Each team member contributed to different modules including file management, user interface, and logic implementation.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👤 Authors:
-Archana Verma
-Bhwana Bisht
+Archana Verma,
+Bhwana Bisht,
 Manisha Bangari
 
 
